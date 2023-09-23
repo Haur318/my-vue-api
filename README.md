@@ -1,6 +1,6 @@
 # my-vue-api
-file name: <br/>
-  - meals.json <br/>
-##
-content: <br/>  
-  - list of meals with description 
+>file name: 
+> - meals.json 
+>
+> content:   
+> - list of meals with description 
