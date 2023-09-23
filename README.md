@@ -1,5 +1,5 @@
 # my-vue-api
 file name: 
-  meals.json 
+__  - meals.json__ 
 content:   
-  list of meals with description 
+__  - list of meals with description 
